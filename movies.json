@@ -1,0 +1,42 @@
+[
+    {
+        "Titulo": "Matrix",
+        "Ano": "1993\u2013",
+        "Lancamento": "01 Mar 1993",
+        "Tempo": "60 min",
+        "Genero": "Action, Drama, Fantasy, Thriller",
+        "Linguagem": "English",
+        "Pais": "Canada",
+        "Status": "Pendente"
+    },
+    {
+        "Titulo": "Toy Story",
+        "Ano": "1995",
+        "Lancamento": "22 Nov 1995",
+        "Tempo": "81 min",
+        "Genero": "Animation, Adventure, Comedy, Family, Fantasy",
+        "Linguagem": "English",
+        "Pais": "USA",
+        "Status": "Pendente"
+    },
+    {
+        "Titulo": "Mad Max",
+        "Ano": "1979",
+        "Lancamento": "21 Mar 1980",
+        "Tempo": "88 min",
+        "Genero": "Action, Adventure, Sci-Fi, Thriller",
+        "Linguagem": "English",
+        "Pais": "Australia",
+        "Status": "Proximo da Lista"
+    },
+    {
+        "Titulo": "Scary Movie",
+        "Ano": "2000",
+        "Lancamento": "07 Jul 2000",
+        "Tempo": "88 min",
+        "Genero": "Comedy",
+        "Linguagem": "English",
+        "Pais": "USA",
+        "Status": "Pendente"
+    }
+]
